@@ -22,5 +22,5 @@ public class GenerateGraph extends Thread {
           e.printStackTrace();
       }
     }
-	}
+  }
 }
